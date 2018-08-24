@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\obj\Debug\netcoreapp2.1\employeesAndCompany.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\obj\Debug\netcoreapp2.1\employeesAndCompany.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\obj\Debug\netcoreapp2.1\employeesAndCompany.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\obj\Debug\netcoreapp2.1\employeesAndCompany.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\bin\Debug\netcoreapp2.1\employeesAndCompany.deps.json
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\bin\Debug\netcoreapp2.1\employeesAndCompany.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\bin\Debug\netcoreapp2.1\employeesAndCompany.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\bin\Debug\netcoreapp2.1\employeesAndCompany.dll
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\bin\Debug\netcoreapp2.1\employeesAndCompany.pdb
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\obj\Debug\netcoreapp2.1\employeesAndCompany.dll
+C:\Users\Seth\Workspace\exercises\employeesAndCompany\obj\Debug\netcoreapp2.1\employeesAndCompany.pdb
